@@ -1,0 +1,128 @@
+Results for beale Function
+==================================================
+
+Description: Multimodal function with sharp peaks. Global minimum f(3,0.5) = 0.
+Global minimum point(s): [3.  0.5]
+Global minimum value: 0
+Domain: [[-4.5, 4.5], [-4.5, 4.5]]
+
+
+Parameters: max_0.001_min_0.000
+Final distance from minimum: 176.846879
+Final function value: 169680.832031
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.001_min_0.001
+Final distance from minimum: 466.068750
+Final function value: 178131.832031
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.002_min_0.000
+Final distance from minimum: 1333.918736
+Final function value: 174813.363281
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.002_min_0.001
+Final distance from minimum: 1049.410251
+Final function value: 174813.363281
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.003_min_0.000
+Final distance from minimum: 462.827229
+Final function value: 174813.363281
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.003_min_0.001
+Final distance from minimum: 494.234111
+Final function value: 181853.613281
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.004_min_0.000
+Final distance from minimum: 248.579996
+Final function value: 169680.832031
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.004_min_0.001
+Final distance from minimum: 983.658677
+Final function value: 174813.363281
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.005_min_0.000
+Final distance from minimum: 1026.194274
+Final function value: 181853.613281
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.005_min_0.001
+Final distance from minimum: 1839.153851
+Final function value: 169680.832031
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.006_min_0.000
+Final distance from minimum: 1234.792555
+Final function value: 178131.832031
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.006_min_0.001
+Final distance from minimum: 1854.139512
+Final function value: 169680.832031
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.007_min_0.000
+Final distance from minimum: 1965.223074
+Final function value: 174813.363281
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.007_min_0.001
+Final distance from minimum: 3550.501713
+Final function value: 178131.832031
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.008_min_0.000
+Final distance from minimum: 3131.547424
+Final function value: 169680.832031
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.008_min_0.001
+Final distance from minimum: 652.234633
+Final function value: 169680.832031
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.009_min_0.000
+Final distance from minimum: 3998.846925
+Final function value: 181853.613281
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.009_min_0.001
+Final distance from minimum: 2996.506420
+Final function value: 174813.363281
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.010_min_0.000
+Final distance from minimum: 3115.973261
+Final function value: 169680.832031
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.010_min_0.001
+Final distance from minimum: 3888.147990
+Final function value: 181853.613281
+Iterations: 5000
+--------------------------------------------------

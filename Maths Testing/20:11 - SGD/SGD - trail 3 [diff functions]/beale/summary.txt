@@ -1,0 +1,134 @@
+Results for beale Function
+==================================================
+
+Description: Multimodal function with sharp peaks. Global minimum f(3,0.5) = 0.
+Global minimum point(s): [3.  0.5]
+Global minimum value: 0
+Domain: [[-4.5, 4.5], [-4.5, 4.5]]
+
+
+Parameters: max_0.001_min_0.000
+Final distance from minimum: 807.294890
+Final function value: 460.131201
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.000
+Final distance from minimum: 3559.319000
+Final function value: 169680.832031
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.003
+Final distance from minimum: 496.628984
+Final function value: 174813.363281
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.005
+Final distance from minimum: 1157.058644
+Final function value: 169680.832031
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.008
+Final distance from minimum: 1178.754163
+Final function value: 169680.832031
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.010
+Final distance from minimum: 1542.187239
+Final function value: 178131.832031
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.000
+Final distance from minimum: 853.558499
+Final function value: 181853.613281
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.003
+Final distance from minimum: 3512.013749
+Final function value: 178131.832031
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.005
+Final distance from minimum: 1416.500190
+Final function value: 169680.832031
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.008
+Final distance from minimum: 1677.177482
+Final function value: 178131.832031
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.010
+Final distance from minimum: 161.210194
+Final function value: 174813.363281
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.000
+Final distance from minimum: 1019.797357
+Final function value: 178131.832031
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.003
+Final distance from minimum: 1240.426854
+Final function value: 174813.363281
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.005
+Final distance from minimum: 2496.039372
+Final function value: 169680.832031
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.008
+Final distance from minimum: 257.166861
+Final function value: 169680.832031
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.010
+Final distance from minimum: 1840.137437
+Final function value: 174813.363281
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.000
+Final distance from minimum: 2494.228263
+Final function value: 181853.613281
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.003
+Final distance from minimum: 1924.652436
+Final function value: 174813.363281
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.005
+Final distance from minimum: 2730.901428
+Final function value: 169680.832031
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.008
+Final distance from minimum: 1181.523158
+Final function value: 181853.613281
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.010
+Final distance from minimum: 2143.096076
+Final function value: 174813.363281
+Iterations: 1000
+--------------------------------------------------

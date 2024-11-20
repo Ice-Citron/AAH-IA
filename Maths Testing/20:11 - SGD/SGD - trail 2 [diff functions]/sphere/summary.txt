@@ -1,0 +1,129 @@
+Results for sphere Function
+==================================================
+
+
+Parameters: max_0.001_min_0.000
+Final distance from minimum: 0.094952
+Final function value: 0.009016
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.251_min_0.000
+Final distance from minimum: 0.274659
+Final function value: 0.075438
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.251_min_0.025
+Final distance from minimum: 16.520616
+Final function value: 272.930745
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.251_min_0.050
+Final distance from minimum: 53.187306
+Final function value: 2828.889512
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.251_min_0.075
+Final distance from minimum: 212.657305
+Final function value: 45223.129369
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.251_min_0.100
+Final distance from minimum: 247.470871
+Final function value: 61241.832075
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.500_min_0.000
+Final distance from minimum: 1.120839
+Final function value: 1.256280
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.500_min_0.025
+Final distance from minimum: 48.190597
+Final function value: 2322.333629
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.500_min_0.050
+Final distance from minimum: 87.689624
+Final function value: 7689.470074
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.500_min_0.075
+Final distance from minimum: 76.044074
+Final function value: 5782.701130
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.500_min_0.100
+Final distance from minimum: 79.915033
+Final function value: 6386.412566
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.750_min_0.000
+Final distance from minimum: 1.925625
+Final function value: 3.708030
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.750_min_0.025
+Final distance from minimum: 19.072301
+Final function value: 363.752657
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.750_min_0.050
+Final distance from minimum: 73.255386
+Final function value: 5366.351597
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.750_min_0.075
+Final distance from minimum: 25.120654
+Final function value: 631.047276
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.750_min_0.100
+Final distance from minimum: 112.735481
+Final function value: 12709.288664
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.000
+Final distance from minimum: 1.671103
+Final function value: 2.792584
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.025
+Final distance from minimum: 48.596098
+Final function value: 2361.580733
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.050
+Final distance from minimum: 19.113501
+Final function value: 365.325924
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.075
+Final distance from minimum: 76.277752
+Final function value: 5818.295505
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.100
+Final distance from minimum: 141.642478
+Final function value: 20062.591705
+Iterations: 1000
+--------------------------------------------------

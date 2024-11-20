@@ -1,0 +1,128 @@
+Results for himmelblau Function
+==================================================
+
+Description: Multi-modal function with four identical local minima at f(3,2)=f(-2.805,3.131)=f(-3.779,-3.283)=f(3.584,-1.848)=0.
+Global minimum point(s): [3 2]
+Global minimum value: 0
+Domain: [[-5, 5], [-5, 5]]
+
+
+Parameters: max_0.001_min_0.000
+Final distance from minimum: 286.169473
+Final function value: 530.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.001_min_0.001
+Final distance from minimum: 484.912760
+Final function value: 250.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.002_min_0.000
+Final distance from minimum: 1084.060722
+Final function value: 250.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.002_min_0.001
+Final distance from minimum: 1173.059325
+Final function value: 250.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.003_min_0.000
+Final distance from minimum: 1341.830429
+Final function value: 250.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.003_min_0.001
+Final distance from minimum: 1535.637902
+Final function value: 250.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.004_min_0.000
+Final distance from minimum: 502.639220
+Final function value: 250.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.004_min_0.001
+Final distance from minimum: 634.389802
+Final function value: 250.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.005_min_0.000
+Final distance from minimum: 1868.313419
+Final function value: 250.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.005_min_0.001
+Final distance from minimum: 697.087421
+Final function value: 610.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.006_min_0.000
+Final distance from minimum: 2284.321600
+Final function value: 530.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.006_min_0.001
+Final distance from minimum: 3019.123450
+Final function value: 610.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.007_min_0.000
+Final distance from minimum: 819.517323
+Final function value: 890.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.007_min_0.001
+Final distance from minimum: 360.014361
+Final function value: 530.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.008_min_0.000
+Final distance from minimum: 1016.230891
+Final function value: 250.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.008_min_0.001
+Final distance from minimum: 519.497192
+Final function value: 250.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.009_min_0.000
+Final distance from minimum: 3171.609926
+Final function value: 250.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.009_min_0.001
+Final distance from minimum: 117.663792
+Final function value: 250.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.010_min_0.000
+Final distance from minimum: 2105.205753
+Final function value: 890.000000
+Iterations: 5000
+--------------------------------------------------
+
+Parameters: max_0.010_min_0.001
+Final distance from minimum: 3015.470131
+Final function value: 890.000000
+Iterations: 5000
+--------------------------------------------------

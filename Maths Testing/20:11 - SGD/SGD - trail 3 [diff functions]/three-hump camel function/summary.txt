@@ -1,0 +1,134 @@
+Results for three_hump_camel Function
+==================================================
+
+Description: Three-hump camel back function. Global minimum f(0,0) = 0.
+Global minimum point(s): [0 0]
+Global minimum value: 0
+Domain: [[-5, 5], [-5, 5]]
+
+
+Parameters: max_0.001_min_0.000
+Final distance from minimum: 0.139685
+Final function value: 0.023272
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.000
+Final distance from minimum: 1080.915808
+Final function value: 2047.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.003
+Final distance from minimum: 130.197898
+Final function value: 1997.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.005
+Final distance from minimum: 149.367811
+Final function value: 1997.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.008
+Final distance from minimum: 806.676388
+Final function value: 1997.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.010
+Final distance from minimum: 394.039754
+Final function value: 2047.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.000
+Final distance from minimum: 1033.629421
+Final function value: 2047.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.003
+Final distance from minimum: 497.791597
+Final function value: 2047.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.005
+Final distance from minimum: 746.063948
+Final function value: 1997.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.008
+Final distance from minimum: 334.186333
+Final function value: 2047.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.010
+Final distance from minimum: 779.579266
+Final function value: 1997.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.000
+Final distance from minimum: 968.171432
+Final function value: 1997.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.003
+Final distance from minimum: 1721.487441
+Final function value: 2047.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.005
+Final distance from minimum: 789.282338
+Final function value: 1997.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.008
+Final distance from minimum: 1568.969618
+Final function value: 2047.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.010
+Final distance from minimum: 2634.972036
+Final function value: 1997.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.000
+Final distance from minimum: 1433.875250
+Final function value: 1997.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.003
+Final distance from minimum: 1190.372400
+Final function value: 2047.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.005
+Final distance from minimum: 859.956727
+Final function value: 1997.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.008
+Final distance from minimum: 2460.159266
+Final function value: 2047.916667
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.010
+Final distance from minimum: 930.183623
+Final function value: 2047.916667
+Iterations: 1000
+--------------------------------------------------

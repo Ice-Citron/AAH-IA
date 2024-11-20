@@ -1,0 +1,134 @@
+Results for himmelblau Function
+==================================================
+
+Description: Multi-modal function with four identical local minima at f(3,2)=f(-2.805,3.131)=f(-3.779,-3.283)=f(3.584,-1.848)=0.
+Global minimum point(s): [3 2]
+Global minimum value: 0
+Domain: [[-5, 5], [-5, 5]]
+
+
+Parameters: max_0.001_min_0.000
+Final distance from minimum: 26.211312
+Final function value: 250.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.000
+Final distance from minimum: 516.420919
+Final function value: 530.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.003
+Final distance from minimum: 317.843518
+Final function value: 610.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.005
+Final distance from minimum: 219.890621
+Final function value: 530.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.008
+Final distance from minimum: 1020.149175
+Final function value: 610.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.010
+Final distance from minimum: 534.694196
+Final function value: 250.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.000
+Final distance from minimum: 1068.992705
+Final function value: 610.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.003
+Final distance from minimum: 1338.425886
+Final function value: 250.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.005
+Final distance from minimum: 1356.697066
+Final function value: 530.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.008
+Final distance from minimum: 2848.640634
+Final function value: 530.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.010
+Final distance from minimum: 1561.396132
+Final function value: 250.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.000
+Final distance from minimum: 1304.408597
+Final function value: 890.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.003
+Final distance from minimum: 248.899531
+Final function value: 250.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.005
+Final distance from minimum: 2776.701242
+Final function value: 890.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.008
+Final distance from minimum: 1994.114927
+Final function value: 890.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.010
+Final distance from minimum: 4378.091915
+Final function value: 610.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.000
+Final distance from minimum: 1931.332862
+Final function value: 610.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.003
+Final distance from minimum: 614.372458
+Final function value: 610.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.005
+Final distance from minimum: 1496.158776
+Final function value: 250.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.008
+Final distance from minimum: 1000.122773
+Final function value: 250.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.010
+Final distance from minimum: 4301.282083
+Final function value: 250.000000
+Iterations: 1000
+--------------------------------------------------

@@ -1,0 +1,129 @@
+Results for rosenbrock Function
+==================================================
+
+
+Parameters: max_0.001_min_0.000
+Final distance from minimum: 74.137492
+Final function value: 401.862749
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.251_min_0.000
+Final distance from minimum: 940.630722
+Final function value: 88826753.336314
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.251_min_0.025
+Final distance from minimum: 2668.044996
+Final function value: 712096090.288411
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.251_min_0.050
+Final distance from minimum: 10655.843668
+Final function value: 297182213951953920.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.251_min_0.075
+Final distance from minimum: 4052.168629
+Final function value: 76369514.832606
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.251_min_0.100
+Final distance from minimum: 159.559003
+Final function value: 44265504152.106369
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.500_min_0.000
+Final distance from minimum: 9473.586961
+Final function value: 79394811859039632.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.500_min_0.025
+Final distance from minimum: 11636.286757
+Final function value: 14854312549.112873
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.500_min_0.050
+Final distance from minimum: 13148.804790
+Final function value: 1643307753100968704.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.500_min_0.075
+Final distance from minimum: 5730.288865
+Final function value: 1715033840338747.250000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.500_min_0.100
+Final distance from minimum: 26576.650705
+Final function value: 16839176221810374656.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.750_min_0.000
+Final distance from minimum: 16724.624069
+Final function value: 1150711263467884800.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.750_min_0.025
+Final distance from minimum: 5976.154640
+Final function value: 101321455248069120.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.750_min_0.050
+Final distance from minimum: 8216.652349
+Final function value: 346780705136998784.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.750_min_0.075
+Final distance from minimum: 31617.313140
+Final function value: 18035100043443478528.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.750_min_0.100
+Final distance from minimum: 14607.080203
+Final function value: 4511134654218955264.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.000
+Final distance from minimum: 19878.942987
+Final function value: 6769051970683482112.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.025
+Final distance from minimum: 16329.044656
+Final function value: 535265064301751296.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.050
+Final distance from minimum: 16871.790186
+Final function value: 3141531412302218240.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.075
+Final distance from minimum: 24550.543303
+Final function value: 35998403344445587456.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.100
+Final distance from minimum: 34216.450689
+Final function value: 11919217135432105984.000000
+Iterations: 1000
+--------------------------------------------------

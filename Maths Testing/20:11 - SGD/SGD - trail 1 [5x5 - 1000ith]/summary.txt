@@ -1,0 +1,129 @@
+Parameter Study Results
+=====================
+
+
+Parameters: max_0.010_min_0.001
+Final distance: 2.449725
+Final value: 41.627528
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.258_min_0.001
+Final distance: 0.639675
+Final value: 31.313321
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.258_min_0.026
+Final distance: 50.819663
+Final value: 2601.894057
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.258_min_0.051
+Final distance: 38.175280
+Final value: 1484.142304
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.258_min_0.075
+Final distance: 50.010581
+Final value: 2515.892041
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.258_min_0.100
+Final distance: 203.418040
+Final value: 41379.786137
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.505_min_0.001
+Final distance: 3.480404
+Final value: 35.659256
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.505_min_0.026
+Final distance: 54.099598
+Final value: 2957.471412
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.505_min_0.051
+Final distance: 67.691160
+Final value: 4605.996001
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.505_min_0.075
+Final distance: 126.507734
+Final value: 16033.262827
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.505_min_0.100
+Final distance: 214.542689
+Final value: 46034.153936
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.752_min_0.001
+Final distance: 6.215178
+Final value: 67.385593
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.752_min_0.026
+Final distance: 67.901131
+Final value: 4617.346304
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.752_min_0.051
+Final distance: 83.283953
+Final value: 6973.102246
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.752_min_0.075
+Final distance: 69.771585
+Final value: 4880.360307
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.752_min_0.100
+Final distance: 142.413658
+Final value: 20318.935201
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.001
+Final distance: 10.029834
+Final value: 111.408117
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.026
+Final distance: 36.613405
+Final value: 1375.542698
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.051
+Final distance: 34.878022
+Final value: 1238.290962
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.075
+Final distance: 155.351521
+Final value: 24146.696999
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_1.000_min_0.100
+Final distance: 145.820231
+Final value: 21265.971949
+Iterations: 1000
+--------------------------------------------------

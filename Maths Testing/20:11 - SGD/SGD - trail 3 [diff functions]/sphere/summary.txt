@@ -1,0 +1,134 @@
+Results for sphere Function
+==================================================
+
+Description: Simple bowl-shaped function. Global minimum f(0,0) = 0.
+Global minimum point(s): [0 0]
+Global minimum value: 0
+Domain: [[-10, 10], [-10, 10]]
+
+
+Parameters: max_0.001_min_0.000
+Final distance from minimum: 0.103713
+Final function value: 0.010756
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.000
+Final distance from minimum: 0.109924
+Final function value: 0.012083
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.003
+Final distance from minimum: 656.943374
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.005
+Final distance from minimum: 761.988042
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.008
+Final distance from minimum: 648.160543
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.010
+Final distance from minimum: 1098.344666
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.000
+Final distance from minimum: 1220.271497
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.003
+Final distance from minimum: 548.262807
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.005
+Final distance from minimum: 213.526116
+Final function value: 103.572973
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.008
+Final distance from minimum: 864.471268
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.010
+Final distance from minimum: 604.805387
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.000
+Final distance from minimum: 1408.703428
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.003
+Final distance from minimum: 1261.789864
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.005
+Final distance from minimum: 2846.056952
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.008
+Final distance from minimum: 1359.095181
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.010
+Final distance from minimum: 3450.495126
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.000
+Final distance from minimum: 3136.212434
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.003
+Final distance from minimum: 1360.581994
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.005
+Final distance from minimum: 551.510183
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.008
+Final distance from minimum: 2647.152272
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.010
+Final distance from minimum: 2917.320411
+Final function value: 200.000000
+Iterations: 1000
+--------------------------------------------------

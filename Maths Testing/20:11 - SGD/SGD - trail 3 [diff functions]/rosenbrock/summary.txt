@@ -1,0 +1,134 @@
+Results for rosenbrock Function
+==================================================
+
+Description: Banana-shaped valley function. Global minimum f(1,1) = 0.
+Global minimum point(s): [1 1]
+Global minimum value: 0
+Domain: [[-2, 2], [-2, 2]]
+
+
+Parameters: max_0.001_min_0.000
+Final distance from minimum: 111.293393
+Final function value: 401.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.000
+Final distance from minimum: 4891.100653
+Final function value: 401.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.003
+Final distance from minimum: 3806.832225
+Final function value: 401.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.005
+Final distance from minimum: 4390.760497
+Final function value: 409.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.008
+Final distance from minimum: 1230.805891
+Final function value: 401.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.026_min_0.010
+Final distance from minimum: 1411.559741
+Final function value: 409.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.000
+Final distance from minimum: 982.250529
+Final function value: 3601.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.003
+Final distance from minimum: 2004.055808
+Final function value: 409.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.005
+Final distance from minimum: 1366.564518
+Final function value: 3609.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.008
+Final distance from minimum: 3102.541886
+Final function value: 401.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.051_min_0.010
+Final distance from minimum: 4022.375915
+Final function value: 409.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.000
+Final distance from minimum: 2790.882489
+Final function value: 409.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.003
+Final distance from minimum: 1682.585961
+Final function value: 409.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.005
+Final distance from minimum: 2108.180057
+Final function value: 401.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.008
+Final distance from minimum: 2552.162935
+Final function value: 409.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.075_min_0.010
+Final distance from minimum: 1671.675557
+Final function value: 409.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.000
+Final distance from minimum: 1223.298471
+Final function value: 409.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.003
+Final distance from minimum: 3020.726070
+Final function value: 409.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.005
+Final distance from minimum: 3821.949766
+Final function value: 409.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.008
+Final distance from minimum: 4356.436875
+Final function value: 3609.000000
+Iterations: 1000
+--------------------------------------------------
+
+Parameters: max_0.100_min_0.010
+Final distance from minimum: 3646.749390
+Final function value: 401.000000
+Iterations: 1000
+--------------------------------------------------
