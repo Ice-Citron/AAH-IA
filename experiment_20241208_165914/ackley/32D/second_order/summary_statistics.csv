@@ -1,0 +1,5 @@
+,final_value,final_value,final_value,final_value,runtime,runtime,iterations,iterations,success,distance_to_minimum,distance_to_minimum
+,mean,std,min,max,mean,std,mean,std,mean,mean,std
+method,,,,,,,,,,,
+trust-exact,16.0763,,16.0763,16.0763,12.4405,,323.0,,1.0,46.0454,
+trust-krylov,16.1938,,16.1938,16.1938,10.0691,,262.0,,1.0,46.9065,
