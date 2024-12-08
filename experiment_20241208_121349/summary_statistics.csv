@@ -1,0 +1,12 @@
+,final_value,final_value,final_value,final_value,runtime,runtime,iterations,iterations,success,distance_to_minimum,distance_to_minimum
+,mean,std,min,max,mean,std,mean,std,mean,mean,std
+method,,,,,,,,,,,
+BFGS,11.5253,,11.5253,11.5253,0.0053,,10.0,,1.0,6.0602,
+adam,12.2437,,12.2437,12.2437,0.1469,,783.0,,1.0,6.6876,
+gradient_descent,12.2437,,12.2437,12.2437,0.0073,,32.0,,1.0,6.6876,
+momentum,12.2437,,12.2437,12.2437,0.0502,,283.0,,1.0,6.6876,
+newton-cg,12.2437,,12.2437,12.2437,0.0042,,5.0,,1.0,6.6876,
+rmsprop,12.2437,,12.2437,12.2437,0.011,,51.0,,1.0,6.6876,
+sgd,12.2437,,12.2437,12.2437,0.1823,,1000.0,,0.0,6.6874,
+trust-exact,12.2437,,12.2437,12.2437,0.0197,,27.0,,1.0,6.6876,
+trust-krylov,12.2437,,12.2437,12.2437,0.0176,,19.0,,1.0,6.6876,
