@@ -1,0 +1,7 @@
+,final_value,final_value,final_value,final_value,runtime,runtime,iterations,iterations,success,distance_to_minimum,distance_to_minimum
+,mean,std,min,max,mean,std,mean,std,mean,mean,std
+method,,,,,,,,,,,
+BFGS,10.8255,,10.8255,10.8255,0.008,,16.0,,1.0,7.7757,
+newton-cg,13.8148,,13.8148,13.8148,0.0365,,30.0,,1.0,11.7241,
+trust-exact,13.7884,,13.7884,13.7884,0.0664,,50.0,,1.0,11.6814,
+trust-krylov,13.8148,,13.8148,13.8148,0.0632,,43.0,,1.0,11.7241,
