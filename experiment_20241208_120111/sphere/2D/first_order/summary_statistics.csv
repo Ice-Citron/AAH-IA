@@ -1,0 +1,8 @@
+,final_value,final_value,final_value,final_value,runtime,runtime,iterations,iterations,success,distance_to_minimum,distance_to_minimum
+,mean,std,min,max,mean,std,mean,std,mean,mean,std
+method,,,,,,,,,,,
+adam,48.8219,,48.8219,48.8219,0.116,,1000.0,,0.0,6.9873,
+gradient_descent,0.0,,0.0,0.0,0.0857,,825.0,,1.0,0.0,
+momentum,0.0,,0.0,0.0,0.0293,,247.0,,1.0,0.0,
+rmsprop,0.0,,0.0,0.0,0.0758,,659.0,,1.0,0.0,
+sgd,0.0,,0.0,0.0,0.1183,,1000.0,,0.0,0.0002,
