@@ -1,0 +1,2 @@
+experiment_num,initial_value,final_value,iterations,runtime,success,distance_to_minimum,f_error,initial_gradient_norm,final_gradient_norm,mean_gradient_norm,mean_cosine_similarity,mean_gradient_angle,std_gradient_norm,std_cosine_similarity,std_gradient_angle
+0,6177.0592789099555,0.08094048454449107,400,0.13146471977233887,False,0.5654840315352327,0.08094048454449107,6603.871751046158,0.34697920682299843,26.351157539796247,0.9902325174063319,0.9260273483560563,365.96469743143564,0.12956089582301067,10.81382525197269
