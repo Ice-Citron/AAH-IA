@@ -1,0 +1,1 @@
+iteration,timestamp,function_value,gradient_norm,gradient_cosine_similarity,gradient_angle,step_size,improvement,best_so_far,relative_improvement,distance_to_minimum,x1,x2
