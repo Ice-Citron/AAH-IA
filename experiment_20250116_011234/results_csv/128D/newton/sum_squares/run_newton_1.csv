@@ -1,0 +1,3 @@
+method,dimension,iteration,x,f_val,dist_to_min,step_size,grad_norm,grad_cosine_sim,rel_improvement_f,rel_improvement_dist
+NewtonRaphson,128,0,,302.3432690567015,2.1223254246640932,,328.11191182738537,,,
+NewtonRaphson,128,1,,2.439671757052531e-31,4.757065991401635e-17,2.1223254246640932,1.046551757718264e-14,0.14871597588462965,1.0,1.0

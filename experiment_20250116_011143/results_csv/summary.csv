@@ -1,0 +1,2 @@
+experiment_num,timestamp,function,dimension,method,success,iterations,runtime,f_initial,f_final,x_initial,x_final,initial_distance_to_minimum,final_distance_to_minimum
+1,20250116_011144,ackley,2,GradientDescent,True,384,0.02892327308654785,9.363319080870282,8.813151774046894,"[4.042298331824767, -1.1252056149134084]","[3.9709183152098144, -0.9927672062902478]",4.1959818254260774,4.093138037246495
